@@ -36,7 +36,7 @@ if __name__=='__main__':
 
     data, one_hot_label = load_iris_dataset(shuffle=True)
 
-    batch_indices = [jnp.array(i, i+batch_size) for i in range(data.shape[0]//batch_size)]
+    batch_indices = [jnp.arange(i, i+batch_size) for i in range(data.shape[0]//batch_size)]
     for epoch in range(num_epoch):
         for batch_index in batch_indices:
             batch_data, batch_one_hot_label = data[batch_index], one_hot_label[batch_index]

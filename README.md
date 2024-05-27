@@ -1,10 +1,10 @@
 # learning-jax-kr
 
-- [x] [Quickstart](https://github.com/jinPrelude/learning-jax-kr/blob/main/quickstart.ipynb) ([original docs](https://jax.readthedocs.io/en/latest/quickstart.html))
-- [x] [Key Concepts](https://github.com/jinPrelude/learning-jax-kr/blob/main/key_concepts.ipynb) ([original docs](https://jax.readthedocs.io/en/latest/key-concepts.html))
-- [x] [Just-in-time compilation](https://github.com/jinPrelude/learning-jax-kr/blob/main/just_in_time_compilation.ipynb) ([original docs](https://jax.readthedocs.io/en/latest/jit-compilation.html))
-- [x] [Automatic vectorization](https://github.com/jinPrelude/learning-jax-kr/blob/main/automatic_vectorization.ipynb) ([original docs](https://jax.readthedocs.io/en/latest/automatic-vectorization.html))
-- [ ] Automatic differentiation ([original docs](https://jax.readthedocs.io/en/latest/automatic-differentiation.html))
+- [x] [Quickstart](https://github.com/jinPrelude/learning-jax-kr/blob/main/jax_tutorials/quickstart.ipynb) ([original docs](https://jax.readthedocs.io/en/latest/quickstart.html))
+- [x] [Key Concepts](https://github.com/jinPrelude/learning-jax-kr/blob/main/jax_tutorials/key_concepts.ipynb) ([original docs](https://jax.readthedocs.io/en/latest/key-concepts.html))
+- [x] [Just-in-time compilation](https://github.com/jinPrelude/learning-jax-kr/blob/main/jax_tutorials/just_in_time_compilation.ipynb) ([original docs](https://jax.readthedocs.io/en/latest/jit-compilation.html))
+- [x] [Automatic vectorization](https://github.com/jinPrelude/learning-jax-kr/blob/main/jax_tutorials/automatic_vectorization.ipynb) ([original docs](https://jax.readthedocs.io/en/latest/automatic-vectorization.html))
+- [x] [Automatic differentiation](https://github.com/jinPrelude/learning-jax-kr/blob/main/jax_tutorials/automatic_differentiation.ipynb) ([original docs](https://jax.readthedocs.io/en/latest/automatic-differentiation.html))
 - [ ] Pseudorandom numbers ([original docs](https://jax.readthedocs.io/en/latest/random-numbers.html))
 
 

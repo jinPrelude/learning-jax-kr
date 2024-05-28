@@ -9,7 +9,7 @@
 - [x] [JIT 컴파일(Just-in-time compilation)](https://github.com/jinPrelude/learning-jax-kr/blob/main/jax_tutorials/just_in_time_compilation.ipynb) ([original docs](https://jax.readthedocs.io/en/latest/jit-compilation.html))
 - [x] [자동 벡터화(Automatic vectorization)](https://github.com/jinPrelude/learning-jax-kr/blob/main/jax_tutorials/automatic_vectorization.ipynb) ([original docs](https://jax.readthedocs.io/en/latest/automatic-vectorization.html))
 - [x] [자동 미분(Automatic differentiation)](https://github.com/jinPrelude/learning-jax-kr/blob/main/jax_tutorials/automatic_differentiation.ipynb) ([original docs](https://jax.readthedocs.io/en/latest/automatic-differentiation.html))
-- [ ] Pseudorandom numbers ([original docs](https://jax.readthedocs.io/en/latest/random-numbers.html))
+- [x] [난수 생성(Pseudorandom numbers)](https://github.com/jinPrelude/learning-jax-kr/blob/main/jax_tutorials/pseudorandom_numbers.ipynb) ([original docs](https://jax.readthedocs.io/en/latest/random-numbers.html))
 - [ ] Working with pytrees ([original docs](https://jax.readthedocs.io/en/latest/working-with-pytrees.html))
 - [ ] Introduction to sharded computation ([original docs](https://jax.readthedocs.io/en/latest/sharded-computation.html))
 - [ ] Stateful Computations ([original docs](https://jax.readthedocs.io/en/latest/stateful-computations.html))

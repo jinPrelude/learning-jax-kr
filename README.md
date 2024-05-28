@@ -1,7 +1,7 @@
 # learning-jax-kr
 
 ## Jax tutorials
-> Note
+> **Note**
 > 해당 문서는 `JAX v0.4.28` 버전을 기준으로 작성되었습니다. 혹시 버전 혹은 문서 내용이 변경되었을 경우 Issue로 알려주시면 감사하겠습니다.
 
 - [x] [Quickstart](https://github.com/jinPrelude/learning-jax-kr/blob/main/jax_tutorials/quickstart.ipynb) ([original docs](https://jax.readthedocs.io/en/latest/quickstart.html))

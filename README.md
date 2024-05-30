@@ -4,12 +4,12 @@
 > **Note**
 > 해당 문서는 `JAX v0.4.28` 버전을 기준으로 작성되었습니다. 혹시 버전 혹은 문서 내용이 변경되었을 경우 Issue로 알려주시면 감사하겠습니다.
 
-- [x] [Quickstart](https://github.com/jinPrelude/learning-jax-kr/blob/main/jax_tutorials/quickstart.ipynb) ([original docs](https://jax.readthedocs.io/en/latest/quickstart.html))
-- [x] [Key Concepts](https://github.com/jinPrelude/learning-jax-kr/blob/main/jax_tutorials/key_concepts.ipynb) ([original docs](https://jax.readthedocs.io/en/latest/key-concepts.html))
-- [x] [JIT 컴파일(Just-in-time compilation)](https://github.com/jinPrelude/learning-jax-kr/blob/main/jax_tutorials/just_in_time_compilation.ipynb) ([original docs](https://jax.readthedocs.io/en/latest/jit-compilation.html))
-- [x] [자동 벡터화(Automatic vectorization)](https://github.com/jinPrelude/learning-jax-kr/blob/main/jax_tutorials/automatic_vectorization.ipynb) ([original docs](https://jax.readthedocs.io/en/latest/automatic-vectorization.html))
-- [x] [자동 미분(Automatic differentiation)](https://github.com/jinPrelude/learning-jax-kr/blob/main/jax_tutorials/automatic_differentiation.ipynb) ([original docs](https://jax.readthedocs.io/en/latest/automatic-differentiation.html))
-- [x] [난수 생성(Pseudorandom numbers)](https://github.com/jinPrelude/learning-jax-kr/blob/main/jax_tutorials/pseudorandom_numbers.ipynb) ([original docs](https://jax.readthedocs.io/en/latest/random-numbers.html))
+- [x] [Quickstart](jax_tutorials/quickstart.ipynb) ([original docs](https://jax.readthedocs.io/en/latest/quickstart.html))
+- [x] [Key Concepts](jax_tutorials/key_concepts.ipynb) ([original docs](https://jax.readthedocs.io/en/latest/key-concepts.html))
+- [x] [JIT 컴파일(Just-in-time compilation)](jax_tutorials/just_in_time_compilation.ipynb) ([original docs](https://jax.readthedocs.io/en/latest/jit-compilation.html))
+- [x] [자동 벡터화(Automatic vectorization)](jax_tutorials/automatic_vectorization.ipynb) ([original docs](https://jax.readthedocs.io/en/latest/automatic-vectorization.html))
+- [x] [자동 미분(Automatic differentiation)](jax_tutorials/automatic_differentiation.ipynb) ([original docs](https://jax.readthedocs.io/en/latest/automatic-differentiation.html))
+- [x] [난수 생성(Pseudorandom numbers)](jax_tutorials/pseudorandom_numbers.ipynb) ([original docs](https://jax.readthedocs.io/en/latest/random-numbers.html))
 - [ ] Working with pytrees ([original docs](https://jax.readthedocs.io/en/latest/working-with-pytrees.html))
 - [ ] Introduction to sharded computation ([original docs](https://jax.readthedocs.io/en/latest/sharded-computation.html))
 - [ ] Stateful Computations ([original docs](https://jax.readthedocs.io/en/latest/stateful-computations.html))

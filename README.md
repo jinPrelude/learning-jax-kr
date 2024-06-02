@@ -10,7 +10,7 @@
 - [x] [자동 벡터화(Automatic vectorization)](jax_tutorials/automatic_vectorization.ipynb) ([original docs](https://jax.readthedocs.io/en/latest/automatic-vectorization.html))
 - [x] [자동 미분(Automatic differentiation)](jax_tutorials/automatic_differentiation.ipynb) ([original docs](https://jax.readthedocs.io/en/latest/automatic-differentiation.html))
 - [x] [난수 생성(Pseudorandom numbers)](jax_tutorials/pseudorandom_numbers.ipynb) ([original docs](https://jax.readthedocs.io/en/latest/random-numbers.html))
-- [ ] Working with pytrees ([original docs](https://jax.readthedocs.io/en/latest/working-with-pytrees.html))
+- [x] [pytree 사용하기(Working with pytrees)](jax_tutorials/working_with_pytrees.ipynb) ([original docs](https://jax.readthedocs.io/en/latest/working-with-pytrees.html))
 - [ ] Introduction to sharded computation ([original docs](https://jax.readthedocs.io/en/latest/sharded-computation.html))
 - [ ] Stateful Computations ([original docs](https://jax.readthedocs.io/en/latest/stateful-computations.html))
 
